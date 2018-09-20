@@ -1,0 +1,44 @@
+_repo: Essays-in-Librarianship-and-Bibliography_53163
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+description: Occasional addresses and papers, for the most part previously published
+  in various reviews, 1877-1898.
+gutenberg_issued: '2016-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53163'
+  lccn: '02002043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Library science'
+- !lcsh 'Bibliography -- Methodology'
+- !lcc 'Z'
+- !lcsh 'British Museum'
+- GITenberg
+tableOfContents: Address to the Library association [1898] -- Public libraries and
+  their catalogues -- The printing of the British museum Catalogue -- The past, present,
+  and future of the British museum Catalogue -- The British museum Catalogue as the
+  basis of a universal catalogue -- Introduction of European printing into the East
+  -- Paraguayan and Argentine bibliography -- The early Italian book trade -- Some
+  book-hunters of the seventeenth century -- Librarianship in the seventeenth century
+  -- The manufacture of fine paper in England in the eighteenth century -- On some
+  colophons of the early printers -- On the system of classifying books on the shelves
+  followed at the British museum -- Subject-indexes to transactions of learned societies
+  -- Photography in public libraries -- The telegraph in the library -- On the protection
+  of libraries from fire -- The sliding-press at the British museum -- On the provision
+  of additional space in libraries -- Preface to Blades "Enemies of books" -- Sir
+  Anthony Panizzi, K.C.B. -- The late John Winter Jones, V.P.S.A. -- The late Henry
+  Stevens, F.S.A. -- The late Sir Edward A. Bond, K.C.B. -- Index.
+title: Essays in Librarianship and Bibliography
+url: http://www.gutenberg.org/ebooks/53163
